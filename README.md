@@ -3,4 +3,4 @@
  
  ## ScreenShot
  
- ![Alt text](https://github.com/deepakjaiswal2018/Speech-to-Text-Recognizer/blob/master/S2T-(1).jpg?raw=true "Title")
+ ![Alt text](https://github.com/deepakjaiswal2018/Speech-to-Text-Recognizer/blob/master/S2T1.jpg?raw=true "Title")
